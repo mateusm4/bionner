@@ -3,6 +3,7 @@ Bionner is a free and open icons package.
 ### Path
 Images path:
 
+ * <div style="color: aquamarine;">./drop.mp3 (Stop sound)</div>
  * ./file-manager.png
  * ./folder-3d.png
  * ./folder-applications.png
@@ -22,6 +23,13 @@ Images path:
  * ./folder-template.png
  * ./folder-videos.png
  * ./github-image.png
+ * <div style="color: aquamarine;">./viola.mp3 (Notification sound)</div>
+
+### Release
+
+ * first commit : 18 theme files
+ * <div style="color: green">sound commit : 20 theme files</div>
+    +2 sound files
 
 ### Contribute
 
